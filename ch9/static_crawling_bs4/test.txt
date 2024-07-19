@@ -1,0 +1,26 @@
+<div class="box_g" data-tiara-layer="SERIES">
+        <h3 class="tit_box">오늘의 연재</h3>
+        <ul class="list_todayseries">
+                <li>
+                    <div class="item_todayseries">
+                        <div class="subtxt_thumb">
+                            <a href="/series/5811562" class="info_cp" data-tiara-layer="series_thumb" data-tiara-id="5811562" data-tiara-type="series" data-tiara-ordnum="1">
+                                <span class="screen_out">출처</span>박영환의 시사1번지</a>
+                        </div>
+                        <a href="https://v.daum.net/v/20240719150302919" class="wrap_thumb" data-tiara-layer="series_thumb" data-tiara-id="5811562" data-tiara-type="series" data-tiara-ordnum="1">
+                            <img src="https://img1.daumcdn.net/thumb/S224x140ht.u/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fkbc%2F20240719150308733kbfa.jpg&amp;scode=media2" class="thumb_g" alt="韓 기소 취소 청탁 발언 변수? &quot;실수 아닌 정교하게 기획된 발언&quot;..&quot;전당대회 이후 문제 될 것&quot;[박영환의 시사1번지]">
+                        </a>
+                        <div class="cont_thumb">
+                            <strong class="tit_g">
+                                <a href="https://v.daum.net/v/20240719150302919" class="link_txt" data-tiara-layer="article" data-tiara-id="5811562" data-tiara-type="series" data-tiara-ordnum="1">韓 기소 취소 청탁 발언 변수? "실수 아닌 정교하게 기획된 발언".."전당대회 이후 문제 될 것"</a>
+                            </strong>
+                            <span class="info_thumb">
+                                <span class="txt_info">kbc광주방송</span>
+                            </span>
+                        </div>
+                    </div>
+                </li>
+        </ul>
+    </div>
+
+# https://news.daum.net/politics#1
